@@ -11,7 +11,7 @@ All work below was performed solely by Jacob Proenza-Smith
 I used a small bit of code in my "isPrime" function from chatGPT. Starting
 from 'while i*i' to 'return true' in the same function.
 I ran my code with 1000000000000 and the time I got was: 27.18
-""
+"""
 
 def isPrime(num):
     if num <= 1:
